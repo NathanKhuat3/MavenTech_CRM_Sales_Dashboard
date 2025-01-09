@@ -5,6 +5,7 @@
 Maven Tech is a company that specializes in selling computer hardware to large businesses. They've been using a new CRM system to track their sales opportunities but have no visibility of the data outside of the platform. As a BI Developer in the company, I am working with the Sales Managers to create an interactive dashboard that allow them to track their team's quarterly performance.
 
 ### SQL ANALYSIS
+[SQL queries](https://github.com/NathanKhuat3/MavenTech_CRM_Sales_Dashboard/blob/main/queries.sql)  
 
 **Sector Analysis**
 - Retail: Consistently the best-performing sector, followed by Technology and Medical.
