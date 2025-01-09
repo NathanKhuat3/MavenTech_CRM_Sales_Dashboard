@@ -4,6 +4,41 @@
 
 Maven Tech is a company that specializes in selling computer hardware to large businesses. They've been using a new CRM system to track their sales opportunities but have no visibility of the data outside of the platform. As a BI Developer in the company, I am working with the Sales Managers to create an interactive dashboard that allow them to track their team's quarterly performance.
 
+### SQL ANALYSIS
+
+**Sector Analysis**
+- Retail: Consistently the best-performing sector, followed by Technology and Medical.
+- **Recommendation**: Focus on strengthening partnerships in Retail and exploring growth opportunities in Technology and Medical.
+
+**Regional Analysis**
+- Top Regions: Korea, Jordan, and Panama.
+- In detail, Poland led in Q1 revenue, Jordan in Q2, Korea in Q3, Panama in Q4.
+- **Recommendation**: Tailor regional strategies to maximize seasonal strengths.
+  
+- Most teams derive 15% of revenue from international clients (non-USA clients) with the exceptions of Brinkmann and Marxen teams exceed 20%, leading in international revenue.
+- **Recommendation**: Share best practices from Brinkmann and Marxen teams to improve other teams’ international client relationships.
+![image](https://github.com/user-attachments/assets/c798b5b0-2a62-4e49-af7c-cfd87db1958c)
+
+
+**Product Analysis**
+- The average transaction revenue for Won deals for most products are performing slight worse compared to expected retail price, with the exception of MG Special and GTX Plus Pro
+- The GTX Plus Basic is a clear example of underperformance to expectation as the average transaction prices is 1.46% below target.
+- **Recommendation**: Reassess GTX Plus Basic pricing to align with market demand and improve sales.
+![image](https://github.com/user-attachments/assets/cb39d060-1166-4664-9614-f9a62533e92d)
+
+
+**KPI Analysis**  
+Revenue Performance: Quarterly team performance comparisons.
+![image](https://github.com/user-attachments/assets/8ef6e085-6f34-49b7-be8b-b87ccdc6023e)
+
+
+Account Conversion:
+- Rouche and Seawald have a high number of deals in the Engaging Phase, indicating deferred revenue.
+- Marxen and Brinkmann lead in Prospecting deals (>200), while other teams have none.
+- **Recommendation**: Encourage improvements on Prospecting deals at the end of each year by the other four teams
+
+Turnaround Time: Varies by quarter; reducing overall turnaround time is a priority.
+
 ### DASHBOARD
 ![image](https://github.com/user-attachments/assets/2b6ae39d-151b-4229-ba76-7d9353368b79)
 
